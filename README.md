@@ -36,3 +36,13 @@ git clone https://github.com/sajalku442-beep/recipe-finder-app.git
 cd recipe-finder-app
 npm install
 npm run dev
+
+📸 Screenshots
+<img width="1351" height="833" alt="image" src="https://github.com/user-attachments/assets/cd621603-01b8-4333-8e63-4c9c7e91d046" />
+<img width="1348" height="634" alt="image" src="https://github.com/user-attachments/assets/4b752bc3-90fd-4f12-b37e-7832c43c3b4a" />
+<img width="1351" height="659" alt="image" src="https://github.com/user-attachments/assets/bf0e99bd-4178-4d31-aa30-4214bc519bbc" />
+<img width="1349" height="930" alt="image" src="https://github.com/user-attachments/assets/db2cfa80-330b-46a6-8b85-ac8c226c4535" />
+
+
+
+
