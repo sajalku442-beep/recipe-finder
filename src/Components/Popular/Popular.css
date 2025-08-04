@@ -1,0 +1,24 @@
+.popular{
+  height: 50vh;
+  width: 100%;
+  margin: 0 , auto;
+}
+
+ /* .imageContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+} */
+
+.slider-container {
+  width: 95%;
+  margin-top: 30px;
+  margin-left: 40px;
+  
+}
+.slide img{
+  height: 300px;
+  width: 400px;
+  border-radius: 5%;
+}

@@ -1,0 +1,40 @@
+.recipe {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.recipe img {
+  height: 350px;
+  width: 400px;
+  border-radius: 5%;
+}
+.recipe h2 {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #7b1e3a;
+  margin: 10px;
+}
+.ingredients h2{
+  margin: 0;
+}
+.instructions{
+   max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.9); /* soft background */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: "Poppins", sans-serif;
+  line-height: 1.7;
+  font-size: 16px;
+  color: #333;
+  text-align: justify;
+}
+.instructions::before {
+  content: "📜 Cooking Instructions";
+  display: block;
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #ff7e5f;
+}
