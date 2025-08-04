@@ -1,12 +1,38 @@
-# React + Vite
+# 🍴 Recipe Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based recipe search application where users can:
+- 🔍 Search for recipes by **dish name** or **ingredients**  
+- 🌎 Explore **different cuisines** with one click  
+- 📖 View detailed **ingredients and instructions** for each recipe  
+ 
 
-Currently, two official plugins are available:
+🚀 **Live Demo:** [Recipe Finder App](https://sajalku442-beep.github.io/recipe-finder/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
+- ✅ Search by dish name or ingredients
+- ✅ Explore multiple cuisines (Indian, Vegan, Thai, etc.)
+- ✅ View full recipe details with instructions
+- ✅ Attractive modern UI with smooth navigation
+- ✅ Hosted on GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **React 18**
+- **React Router DOM**
+- **Vite**
+- **TheMealDB API**
+- **CSS (Modern Gradient & Flexbox Layouts)**
+
+---
+
+## 🖥️ Installation & Setup
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/sajalku442-beep/recipe-finder-app.git
+cd recipe-finder-app
+npm install
+npm run dev
